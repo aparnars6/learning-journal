@@ -5,7 +5,7 @@ I am new to coding and analytics but excited to learn step-by-step.
 ## What I plan to learn
 1.Microsoft Excel (Formulas, Charts, Pivot Tables)
 2.Power BI Basics (Data Visualization)
-3.SQL Fundamentals (Basi Queries)
+3.SQL Fundamentals (Basic Queries)
 4.Python (Data Analysis librarries like Pandas and Matpilotlib)
 
 ## Other Goals
